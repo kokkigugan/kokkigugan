@@ -25,13 +25,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <!-- Add more of your preferred tools and technologies here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg" alt="Blockchain" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cadence/cadence-original.svg" alt="Cadence" width="40" height="40" />
 </p>
 
-<h2>Projects</h2>
-
-- [Project 1](https://github.com/yourusername/project1): Description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of Project 2.
 
 <h2>Support</h2>
 
