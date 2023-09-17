@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kokkigugan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/gugan_s2713" target="_blank">
+  <a href="https://twitter.com/Gugans2713" target="_blank">
     <img src="https://img.shields.io/twitter/follow/gugan_s2713?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Follow" />
   </a>
   <a href="https://www.linkedin.com/in/gugan-s-08a22017a/" target="_blank">
