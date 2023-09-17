@@ -22,8 +22,8 @@
 <h2>Languages and Tools</h2>
 
 <p align="left">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.patterns.dev%2Fimg%2Freactjs%2Freact-logo%403x.svg&tbnid=MSSyCe7_ULQ8ZM&vet=12ahUKEwiHr8LowLGBAxXMcmwGHcV_DRQQMygNegUIARCOAQ..i&imgrefurl=https%3A%2F%2Fpatterns.dev%2Fposts%2Freactjs&docid=7vFh7bcZ1WPsZM&w=800&h=446&q=react&ved=2ahUKEwiHr8LowLGBAxXMcmwGHcV_DRQQMygNegUIARCOAQ" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://react.dev/" alt="React" width="40" height="40" />
+  <img src="" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
