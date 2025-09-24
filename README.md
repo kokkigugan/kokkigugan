@@ -63,8 +63,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=kokkigugan&show_icons=true&theme=dark
+<p<img align="center">
+  https://github-readme-stats.vercel.app/api?username=kokkigugan&show_icons=true&theme=dark/>
 </p>
 <p align="center">
   https://github-readme-stats.vercel.app/api/top-langs/?username=kokkigugan&layout=compact&theme=dark
