@@ -1,70 +1,49 @@
-<!-- Animated Intro -->
-<div align="center">
-  
-!INTRO
+<h2 align="left">Hi 👋! My name is GUGAN and I'm  from Mars</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 👨‍💻 About Me
-- 🔭 Currently working as **Consultant at EY GDS**
-- 🌐 Building **Web3 apps** and **smart contracts**; passionate about decentralized finance
-- 💻 Tech Stack: **.NET, ADO.NET, LINQ, C#, AWS, MySQL, API Integration**
-- 🏆 Multiple **hackathon wins** & **IIT-B Mapathon** recognition
-- ⚡ Fun fact: **Coffee ☕ + Music 🎵 + Dark Mode 🌙 = Perfect Coding Session**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🧰 My Skill Set
-<div align="center">
-https://dotnet.microsoft.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg</a>
-https://aws.amazon.com/<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/iconsvices-original-wordmark.svg</a>
-https://www.mysql.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg</a>
-https://soliditylang.org/<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devdity-plain.svg</a>
-https://reactjs.org/https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg</a>
-<a href="https://nodejs.org/" target="_ercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
----
+###
 
-## 🚀 Highlight Projects
-- **ZePay** — Decentralized, blockchain‑based payment platform for fast & secure transactions.  
-  _Tech:_ Solidity, Web3, .NET, MySQL
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **XDC Finance App** — Finance application on the **XDC** blockchain with smart contract integration.  
-  _Tech:_ Solidity, Web3, React/Node, AWS
+###
 
-- **Mapathon (IIT‑Bombay)** — Proposed a **5G implementation strategy** for local regions; recognized as a winner.
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=kokkigugan&show_icons=true&theme=dark
-</p>
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=kokkigugan&layout=compact&theme=dark
-</p>
-<p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=kokkigugan&theme=dark
-</p>
-
----
-
-## 🎧 Now Playing on Spotify
-<p align="center">
-  https://open.spotify.com/user/31wxh27bvhffrjsv53n4j6rgiaeq
-    <img 
-      src="https://spotify-github-profilei/view.svg?uid=31wxh27bvhffrjsv53n4j6rgiaeq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=1DB954&bar_color_cover=false
-  </a>
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  https://twitter.com/Gugans2713https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>
-  https://www.linkedin.com/in/gugan-s-08a22017a/<img src="g.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
-  mailto:gugans954@gmail.comhttps://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
-</p>
+###
