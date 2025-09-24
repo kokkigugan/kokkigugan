@@ -18,10 +18,7 @@
 <div align="center">Tune in with me</div>
 
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxh27bvhffrjsv53n4j6rgiaeq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxh27bvhffrjsv53n4j6rgiaeq&redirect=true)
-
-  <br/>
-
+  
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxh27bvhffrjsv53n4j6rgiaeq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxh27bvhffrjsv53n4j6rgiaeq&redirect=true)
 </div>
 
