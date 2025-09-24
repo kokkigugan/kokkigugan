@@ -18,12 +18,12 @@
 
 ## 🧰 My Skill Set
 <div align="center">
-<a href/dotnet.microsoft.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg</a>
-https://aws.amazon.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg</a>
+https://dotnet.microsoft.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg</a>
+https://aws.amazon.com/<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/iconsvices-original-wordmark.svg</a>
 https://www.mysql.com/https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg</a>
-https://soliditylang.org/https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg</a>
+https://soliditylang.org/<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devdity-plain.svg</a>
 https://reactjs.org/https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg</a>
-https://nodejs.org/https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg</a>
+<a href="https://nodejs.org/" target="_ercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg</a>
 </div>
 
 ---
@@ -46,13 +46,17 @@ https://nodejs.org/https://raw.githubusercontent.com/devicons/devicon/master/ico
 <p align="center">
   https://github-readme-stats.vercel.app/api/top-langs/?username=kokkigugan&layout=compact&theme=dark
 </p>
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=kokkigugan&theme=dark
+</p>
 
 ---
 
 ## 🎧 Now Playing on Spotify
 <p align="center">
   https://open.spotify.com/user/31wxh27bvhffrjsv53n4j6rgiaeq
-    https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wxh27bvhffrjsv53n4j6rgiaeq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=1DB954&bar_color_cover=false
+    <img 
+      src="https://spotify-github-profilei/view.svg?uid=31wxh27bvhffrjsv53n4j6rgiaeq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=1DB954&bar_color_cover=false
   </a>
 </p>
 
@@ -61,6 +65,6 @@ https://nodejs.org/https://raw.githubusercontent.com/devicons/devicon/master/ico
 ## 📫 Connect with Me
 <p align="center">
   https://twitter.com/Gugans2713https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>
-  https://www.linkedin.com/in/gugan-s-08a22017a/https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+  https://www.linkedin.com/in/gugan-s-08a22017a/<img src="g.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
   mailto:gugans954@gmail.comhttps://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
 </p>
