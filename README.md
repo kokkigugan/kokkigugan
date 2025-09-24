@@ -2,13 +2,12 @@
 <h3 align="center">Consultant @ EY GDS | .NET & Blockchain Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kokkigugan&label=Profile%20views&color=0e75b6t
+  https://komarev.com/ghpvc/?username=kokkigugan&label=Profile%20views&color=0e75b6&style=flat
 </p>
 
 <p align="center">
-  https://twitter.com/Gugans2713
-    <img src="https://img.shields.io/twitter/follow/Gugans2713?style=for-the-badge&logo=twitter&label=Follow%20on%20Twitter" alt="Twitter Follow"om/in/gugan-s-08a22017a/
-    https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
+  <a href="https://twitter.com/Gugans2713"src="https://img.shields.io/twitter/follow/Gugans2713?style=for-the-badge&logo=twitter&label=Follow%20on%20Twitter" alt="Twitter Followcom/in/gugan-s-08a22017a/
+    <img src="https://img.shields.iokedIn-Connect-blue?style=for-the-badge&logo=linkedin
   </a>
 </p>
 
@@ -19,23 +18,12 @@
 - 🌐 Building **Web3** apps and **smart contracts**; interested in decentralized finance
 - 💻 Stack: **.NET, ADO.NET, LINQ, C#, AWS, MySQL, API Integration**
 - 🏆 Multiple **hackathon wins** & **IIT-B Mapathon** recognition
-- ✨ I enjoy turning ideas into working products
-
----
-
-## 🧰 Tech Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-originalps://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="thubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Soliditycontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
-</p>
-
----
-
-## 🚀 Highlight Projects
-- **ZePay** — Decentralized, blockchain‑based payment platform for fast & secure transactions.  
+- ✨ I enjoy/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Solidity" width.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/iconsct-original-wordmark.svg
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" heightPay** — Decentralized, blockchain‑based payment platform for fast & secure transactions.  
   _Tech:_ Solidity, Web3, .NET, MySQL
 
 - **XDC Finance App** — Finance application on the **XDC** blockchain with smart contract integration.  
